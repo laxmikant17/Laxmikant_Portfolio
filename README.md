@@ -12,8 +12,8 @@ Data Science Portfolio
 
 
 ## This is a Box Plot that i used to Mean. 
-![Box Plot](/box_plot.png)
+![Box Plot](/images/box_plot.png)
 
 
 ## This graph shows difference Survived gender.
-![Survived Based On Gender](/survived_basedon_gender.png)
+![Survived Based On Gender](/images/survived_basedon_gender.png)
