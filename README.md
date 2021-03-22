@@ -11,9 +11,9 @@ Data Science Portfolio
 * Some Images of Analysing
 
 
-## This is a Box Plot that i used to Mean. 
+### This is a Box Plot that i used to Mean. 
 ![Box Plot](/images/box_plot.png)
 
 
-## This graph shows difference Survived gender.
+### This graph shows difference Survived gender.
 ![Survived Based On Gender](/images/survived_basedon_gender.png)
